@@ -3,12 +3,39 @@
     <title>Du Dé au Clavier: le bazar de Kris</title>
     <link href="https://krisdoc.github.io/krisdoc/feed.xml" rel="self" />
     <link href="https://krisdoc.github.io/krisdoc" />
-    <updated>2022-01-17T11:13:41+01:00</updated>
+    <updated>2022-10-01T10:16:23+02:00</updated>
     <author>
         <name>Kris</name>
     </author>
     <id>https://krisdoc.github.io/krisdoc</id>
 
+    <entry>
+        <title>Découverte de Texture</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/decouverte-de-texture.html"/>
+        <id>https://krisdoc.github.io/krisdoc/decouverte-de-texture.html</id>
+            <category term="vidéo"/>
+            <category term="streaming"/>
+            <category term="fiction interactive"/>
+            <category term="Texture"/>
+
+        <updated>2022-10-01T10:16:23+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/120/mediamodifier-yx17UuZw1Ck-unsplash.jpg" alt="Loupe, carnet et crayon sur un bureau blanc" />
+                    Texture est un outil de fiction interactive un peu atypique. On fait sa découverte dans cette vidéo issue d’un direct sur Twitch.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/120/mediamodifier-yx17UuZw1Ck-unsplash.jpg" alt="Loupe, carnet et crayon sur un bureau blanc" />
+                <p><a href="https://texturewriter.com">Texture</a> est un outil de fiction interactive un peu atypique. On fait sa découverte dans cette vidéo issue d’un direct sur Twitch.</p>
+<div class="post__iframe"><iframe loading="lazy" title="Découverte de Texture" width="560" height="315" src="https://tube.portes-imaginaire.org/videos/embed/7f6c3c3a-342b-4827-af04-7d593eef0ae4?warningTitle=0&amp;p2p=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Les Outils du Jianghu</title>
         <author>
@@ -323,42 +350,6 @@ A vous de choisir lequel de ces messieurs vous allez poursuivre de vos assiduit�
 <p><em>Trône des étoiles</em>: Campagne Star Wars où les PJ incarnent les représentants d’une planète au Sénat Galactique.</p>
 <p>Vous pouvez suivre leur avancement sur ce tableau :</p>
 <div class="post__iframe"><iframe loading="lazy" class="airtable-embed" src="https://airtable.com/embed/shrprbUzU5Lr2FmpE?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="800" height="500" style="background: transparent; border: 1px solid #ccc;"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Force de l&#x27;esprit: psionics for Space Aces</title>
-        <author>
-            <name>Kris</name>
-        </author>
-        <link href="https://krisdoc.github.io/krisdoc/force-de-lesprit-psionics-for-space-aces.html"/>
-        <id>https://krisdoc.github.io/krisdoc/force-de-lesprit-psionics-for-space-aces.html</id>
-            <category term="itch.io"/>
-            <category term="Version anglaise disponible"/>
-            <category term="Star Wars"/>
-            <category term="Space Aces"/>
-
-        <updated>2021-07-04T10:36:20+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://krisdoc.github.io/krisdoc/media/posts/102/bekir-donmez-eofm5R5f9Kw-unsplash2.jpg" alt="" />
-                    Space Aces est un jeu d’aventures spatiales au système léger. J’envisage de l’utiliser lors de one shots Star Wars mais une chose manquait: comment jouer des jedi. Je me suis donc penchée sur la question, et Force de l’esprit en est sorti: Il s’agit d’un&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://krisdoc.github.io/krisdoc/media/posts/102/bekir-donmez-eofm5R5f9Kw-unsplash2.jpg" alt="" />
-                <p><a href="https://p0rthos47.itch.io/space-aces-tng">Space Aces</a> est un jeu d’aventures spatiales au système léger. J’envisage de l’utiliser lors de one shots Star Wars mais une chose manquait: comment jouer des jedi. Je me suis donc penchée sur la question, et Force de l’esprit en est sorti:</p>
-<div class="post__iframe"><iframe loading="lazy" src="https://itch.io/embed/1003551" width="552" height="167" frameborder="0"><a href="https://krisdoc.itch.io/force-de-lesprit-strength-of-the-mind">Force de l'esprit | Strength of the Mind by KrisDoC</a></iframe></div>
-
-<p>Il s’agit d’un supplément en une page où la Force et son usage sont réparties en trois domaines:</p>
-<ul>
-<li>Détection</li>
-<li>Contrôle</li>
-<li>Altération</li>
-</ul>
-<p>On utilise des points de Concentration pour activer ses capacités après avoir déterminé le coût nécessaire selon la taille de la cible et l’importance de l’action souhaitée.</p>
-
             ]]>
         </content>
     </entry>

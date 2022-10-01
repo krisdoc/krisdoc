@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://krisdoc.github.io/krisdoc/decouverte-de-texture.html",
+            "url": "https://krisdoc.github.io/krisdoc/decouverte-de-texture.html",
+            "title": "Découverte de Texture",
+            "summary": "Texture est un outil de fiction interactive un peu atypique. On fait sa découverte dans cette vidéo issue d’un direct sur Twitch.",
+            "content_html": "<p><a href=\"https://texturewriter.com\">Texture</a> est un outil de fiction interactive un peu atypique. On fait sa découverte dans cette vidéo issue d’un direct sur Twitch.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" title=\"Découverte de Texture\" width=\"560\" height=\"315\" src=\"https://tube.portes-imaginaire.org/videos/embed/7f6c3c3a-342b-4827-af04-7d593eef0ae4?warningTitle=0&amp;p2p=0\" frameborder=\"0\" allowfullscreen=\"\" sandbox=\"allow-same-origin allow-scripts allow-popups\"></iframe></div>",
+            "image": "https://krisdoc.github.io/krisdoc/media/posts/120/mediamodifier-yx17UuZw1Ck-unsplash.jpg",
+            "author": {
+                "name": "Kris"
+            },
+            "tags": [
+                   "vidéo",
+                   "streaming",
+                   "fiction interactive",
+                   "Texture"
+            ],
+            "date_published": "2022-10-01T10:16:23+02:00",
+            "date_modified": "2022-10-01T10:16:23+02:00"
+        },
+        {
             "id": "https://krisdoc.github.io/krisdoc/les-outils-du-jianghu.html",
             "url": "https://krisdoc.github.io/krisdoc/les-outils-du-jianghu.html",
             "title": "Les Outils du Jianghu",
@@ -181,25 +200,6 @@
             ],
             "date_published": "2021-07-04T09:57:18+02:00",
             "date_modified": "2021-07-04T10:10:43+02:00"
-        },
-        {
-            "id": "https://krisdoc.github.io/krisdoc/force-de-lesprit-psionics-for-space-aces.html",
-            "url": "https://krisdoc.github.io/krisdoc/force-de-lesprit-psionics-for-space-aces.html",
-            "title": "Force de l&#x27;esprit: psionics for Space Aces",
-            "summary": "Space Aces est un jeu d’aventures spatiales au système léger. J’envisage de l’utiliser lors de one shots Star Wars mais une chose manquait: comment jouer des jedi. Je me suis donc penchée sur la question, et Force de l’esprit en est sorti: Il s’agit d’un&hellip;",
-            "content_html": "<p><a href=\"https://p0rthos47.itch.io/space-aces-tng\">Space Aces</a> est un jeu d’aventures spatiales au système léger. J’envisage de l’utiliser lors de one shots Star Wars mais une chose manquait: comment jouer des jedi. Je me suis donc penchée sur la question, et Force de l’esprit en est sorti:</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" src=\"https://itch.io/embed/1003551\" width=\"552\" height=\"167\" frameborder=\"0\"><a href=\"https://krisdoc.itch.io/force-de-lesprit-strength-of-the-mind\">Force de l'esprit | Strength of the Mind by KrisDoC</a></iframe></div>\n\n<p>Il s’agit d’un supplément en une page où la Force et son usage sont réparties en trois domaines:</p>\n<ul>\n<li>Détection</li>\n<li>Contrôle</li>\n<li>Altération</li>\n</ul>\n<p>On utilise des points de Concentration pour activer ses capacités après avoir déterminé le coût nécessaire selon la taille de la cible et l’importance de l’action souhaitée.</p>\n",
-            "image": "https://krisdoc.github.io/krisdoc/media/posts/102/bekir-donmez-eofm5R5f9Kw-unsplash2.jpg",
-            "author": {
-                "name": "Kris"
-            },
-            "tags": [
-                   "itch.io",
-                   "Version anglaise disponible",
-                   "Star Wars",
-                   "Space Aces"
-            ],
-            "date_published": "2021-07-04T09:51:48+02:00",
-            "date_modified": "2021-07-04T10:36:20+02:00"
         }
     ]
 }

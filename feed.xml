@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Du Dé au Clavier: le bazar de Kris</title>
+    <link href="https://krisdoc.github.io/krisdoc/feed.xml" rel="self" />
+    <link href="https://krisdoc.github.io/krisdoc" />
+    <updated>2022-01-17T11:13:41+01:00</updated>
+    <author>
+        <name>Kris</name>
+    </author>
+    <id>https://krisdoc.github.io/krisdoc</id>
+
+    <entry>
+        <title>Les Outils du Jianghu</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/les-outils-du-jianghu.html"/>
+        <id>https://krisdoc.github.io/krisdoc/les-outils-du-jianghu.html</id>
+            <category term="création"/>
+            <category term="Jadepunk"/>
+
+        <updated>2022-01-17T11:13:41+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/118/irham-bahtiar-Z1A2U0vo8uY-unsplash-1.jpg" alt="" />
+                    Les Outils du Jianghu est un catalogue d'Atouts pour Jadepunk. Les Atouts sont des techniques martiales, des personnes ou de la jadetech (objets modifiés par du jade). Jadepunk est un univers où le jade a des propriétés extraordinaires, proche de la magie ou de la&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/118/irham-bahtiar-Z1A2U0vo8uY-unsplash-1.jpg" alt="" />
+                <p>Les Outils du Jianghu est un catalogue d'Atouts pour Jadepunk. Les Atouts sont des techniques martiales, des personnes ou de la jadetech (objets modifiés par du jade). Jadepunk est un univers où le jade a des propriétés extraordinaires, proche de la magie ou de la vapeur dans le genre steampunk.</p>
+<p>A la création de personnage, on peut créer les Atouts que possèdent le perso. C'est un processus sympa mais qui peut prendre du temps, d'où l'idée de ce catalogue: vous n'avez qu'à y piocher ce qui vous intéresse (n'oubliez pas de payer le coût en restauration!).</p>
+<p>C'est gratuit et ça se télécharge ci-dessous:</p>
+<div class="post__iframe"><iframe loading="lazy" width="552" height="167" frameborder="0" src="https://itch.io/embed/1356934?bg_color=222222&amp;fg_color=eeeeee&amp;link_color=eeeeee&amp;border_color=363636"><a href="https://krisdoc.itch.io/les-outils-du-jianghu">Les Outils du Jianghu by KrisDoC</a></iframe></div> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Musique: album Sérénade</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/musique-album-serenade.html"/>
+        <id>https://krisdoc.github.io/krisdoc/musique-album-serenade.html</id>
+            <category term="musique"/>
+            <category term="création"/>
+            <category term="Sérénade"/>
+            <category term="Composition"/>
+
+        <updated>2022-01-01T11:43:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/117/resonance.png" alt="onde musicale jaune et rouge" />
+                    Il est temps de vous partager mon nouvel album: Sérénade: 12 musiques dans des styles variés. Ca s'écoute ci-dessous: Vous pouvez vous abonnez et ne rien rater de ma musique soit via un compte sur le fediverse (mastodon ou autre): lien soit via le flux rss (comme&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/117/resonance.png" alt="onde musicale jaune et rouge" />
+                <p>Il est temps de vous partager mon nouvel album: Sérénade: 12 musiques dans des styles variés. Ca s'écoute ci-dessous:</p>
+<div class="post__iframe"><iframe loading="lazy" width="100%" height="330" scrolling="no" frameborder="no" src="https://open.audio/front/embed.html?&amp;type=album&amp;id=16717"></iframe></div>
+<p>Vous pouvez vous abonnez et ne rien rater de ma musique soit via un compte sur le fediverse (mastodon ou autre): <a href="@kris@open.audio" target="_blank" rel="noopener noreferrer">lien soit</a> via le flux rss (comme un podcast): <a href="https://open.audio/api/v1/channels/kris/rss" target="_blank" rel="noopener noreferrer">Flux RSS</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Du Dé au Micro: audience</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/du-de-au-micro-audience.html"/>
+        <id>https://krisdoc.github.io/krisdoc/du-de-au-micro-audience.html</id>
+            <category term="podcast"/>
+            <category term="analyse"/>
+            <category term="Du Dé au Micro"/>
+
+        <updated>2021-12-30T19:23:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/116/jason-coudriet-eQux_nmDew0-unsplash.jpg" alt="des graphiques à la main" />
+                    Un podcast n'est rien sans ses poditeurices. Mais qui sont-iels? On va parler chiffres et statistiques. Du Dé au Micro est hébergé sur Podcloud depuis sa création. Sa "vie" de podcast est marquée par une césure de plusieurs années avant un renouveau, la version actuelle.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/116/jason-coudriet-eQux_nmDew0-unsplash.jpg" alt="des graphiques à la main" />
+                <p>Un podcast n'est rien sans ses poditeurices. Mais qui sont-iels?</p>
+<p>On va parler chiffres et statistiques. Du Dé au Micro est hébergé sur <a href="https://podcloud.fr/" target="_blank" rel="noopener noreferrer">Podcloud</a> depuis sa création.</p>
+<p> Sa "vie" de podcast est marquée par une césure de plusieurs années avant un renouveau, la version actuelle. C'est de cette deuxième mouture dont on va parler ici. Notamment, car je n'ai plus les données sur les anciens épisodes.</p>
+<p>Pour exemple, on prendra le dernier épisode: le numéro 29 qui est une interview d'Aetlas. Au moment où j'écris, cet épisode a été publié il y a 12 jours. Il a quasiment atteint la fin de sa vie d'épisode en terme d'audience. Il cumule 57 écoutes toutes plateformes confondues. Ce n'est pas l'épisode avec le moins d'écoutes même si c'est le plus récent. L'épisode avec le moins d'écoutes est l'épisode 21 avec 41 écoutes (diffusé le 9/11/2020).</p>
+<p>L'épisode qui a le plus d'écoutes est l'épisode 0 avec 284 écoutes (diffusé le 7/11/2019). J'élimine ici un artefact que je ne m'explique pas: l'épisode 5 avec 524 écoutes.</p>
+<p>Quelques chiffres:</p>
+<ul>
+<li>Nombre totales d'écoutes: 3608</li>
+<li>Moyenne d'écoutes par épisode: 120</li>
+<li>Médiane des écoutes: 85</li>
+<li>Nombre d'auditeurices sur 90j glissants: 157 (les points bleus sont les diffusions d'un épisode)</li>
+</ul>
+<figure class="post__image"><img loading="lazy"  src="https://krisdoc.github.io/krisdoc/media/posts/116/audience-glissante.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://krisdoc.github.io/krisdoc/media/posts/116/responsive/audience-glissante-xs.png 300w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/audience-glissante-sm.png 480w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/audience-glissante-md.png 768w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/audience-glissante-lg.png 1024w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/audience-glissante-xl.png 1360w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/audience-glissante-2xl.png 1600w"  alt="graphique de l'évolution des poditeurices" width="539" height="318"></figure>
+<p>Le podcast est disponible sur de nombreuses plateformes.</p>
+<p>Ecoutes par plateforme sur les 3 derniers mois:</p>
+<figure class="post__image"><img loading="lazy"  src="https://krisdoc.github.io/krisdoc/media/posts/116/camembert.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://krisdoc.github.io/krisdoc/media/posts/116/responsive/camembert-xs.png 300w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/camembert-sm.png 480w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/camembert-md.png 768w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/camembert-lg.png 1024w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/camembert-xl.png 1360w ,https://krisdoc.github.io/krisdoc/media/posts/116/responsive/camembert-2xl.png 1600w"  alt="graphique en camembert de la répartition des écoutes par plateformes" width="1234" height="754"></figure>
+<p>Tous ces chiffres sont intéressants, mais est-ce que c'est beaucoup?</p>
+<p>Je ne sais pas. Le seul moyen que j'ai de l'évaluer est de consulter la rubrique Emissions de Podcloud thème <a href="https://podcloud.fr/podcasts/shows/jeux-de-societe" target="_blank" rel="noopener noreferrer">Jeux de société</a> où, au moment où j'écris, Du Dé au Micro est à la 7ème place. Evidemment, cette place évolue en fonction de la diffusion d'épisodes par l'ensemble des podcasts.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Musique: album Perce-oreille</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/musique-album-perce-oreille.html"/>
+        <id>https://krisdoc.github.io/krisdoc/musique-album-perce-oreille.html</id>
+            <category term="musique"/>
+            <category term="création"/>
+            <category term="Perce-Oreille"/>
+            <category term="Composition"/>
+
+        <updated>2021-12-18T09:26:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/113/tune-pitch1.png" alt="Purple musical note " />
+                    Un nouvel album de musique. Vous pouvez vous abonner à mes créations musicales par flux rss, depuis le fediverse ou directement depuis open.audio si vous disposez d'un compte sur cette instance.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/113/tune-pitch1.png" alt="Purple musical note " />
+                <p>Un nouvel album de musique. Vous pouvez vous abonner à mes créations musicales par <a href="https://open.audio/api/v1/channels/kris/rss" target="_blank" rel="noopener noreferrer">flux rss</a>, depuis le <a href="@kris@open.audio" target="_blank" rel="noopener noreferrer">fediverse</a> ou directement depuis <a href="https://open.audio/channels/kris/" target="_blank" rel="noopener noreferrer">open.audio</a> si vous disposez d'un compte sur cette instance.</p>
+<div class="post__iframe"><iframe loading="lazy" width="100%" height="330" scrolling="no" frameborder="no" src="https://open.audio/front/embed.html?&amp;type=album&amp;id=16605"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Musique: album Passepartout</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/musique-album-passepartout.html"/>
+        <id>https://krisdoc.github.io/krisdoc/musique-album-passepartout.html</id>
+            <category term="musique"/>
+            <category term="création"/>
+            <category term="Passepartout"/>
+            <category term="Composition"/>
+
+        <updated>2021-12-18T09:14:36+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/112/key.png" alt="Clé orange sur fond gris foncé" />
+                    Je continue mon aventure dans la création de musique. Aujourd'hui, je vous partage mon album Passepartout. Ca s'écoute sur open.audio.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/112/key.png" alt="Clé orange sur fond gris foncé" />
+                <p>Je continue mon aventure dans la création de musique. Aujourd'hui, je vous partage mon album Passepartout. Ca s'écoute sur <a href="https://open.audio/library" target="_blank" rel="noopener noreferrer">open.audio</a>.</p>
+<div class="post__iframe"><iframe loading="lazy" width="100%" height="330" scrolling="no" frameborder="no" src="https://open.audio/front/embed.html?&amp;type=album&amp;id=16464"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Fiction interactive: quelques outils</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/fiction-interactive.html"/>
+        <id>https://krisdoc.github.io/krisdoc/fiction-interactive.html</id>
+            <category term="fiction interactive"/>
+            <category term="donjon.fi"/>
+            <category term="Twine"/>
+            <category term="Moiki"/>
+            <category term="Chapbook"/>
+
+        <updated>2021-08-23T18:50:07+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/109/vladislav-babienko-KTpSVEcU0XU-unsplash.jpg" alt="image d&#x27;une croisée des chemins" />
+                    Vous avez peut-être déjà rencontré ce terme ou certains jeux s'en revendiquant sans trop savoir en quoi cela consiste ou comment on crée ce type d'œuvres. Ce terme recouvre toutes sortes de jeux ou d'expériences ludiques qui sont généralement rassemblées en deux catégories larges: les&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/109/vladislav-babienko-KTpSVEcU0XU-unsplash.jpg" alt="image d&#x27;une croisée des chemins" />
+                <p>Vous avez peut-être déjà rencontré ce terme ou certains jeux s'en revendiquant sans trop savoir en quoi cela consiste ou comment on crée ce type d'œuvres.</p>
+<p>Ce terme recouvre toutes sortes de jeux ou d'expériences ludiques qui sont généralement rassemblées en deux catégories larges: les jeux à choix (descendants des livres dont vous êtes le héros) et les jeux à analyseur syntaxique (ou parser en anglais, héritiers des jeux textuels du début de l'informatique).</p>
+<p>Ce que vous savez peut-être moins c'est qu'il s'agit d'une formidable porte d'entrée dans le monde de la création de jeu. En effet, il vous suffit d'un ordinateur capable de gérer un traitement de texte pour créer ce type de jeu. Pas besoin d'un PC gamer avec la dernière technologie onéreuse. Non, là on va créer des jeux textuels à la force de nos petits doigts sur un clavier. Bon, une souris c'est pratique aussi.</p>
+<p>Mais avant de rentrer dans le vif du sujet et de vous présenter quelques outils faciles d'accès, quelques mots à mon propos:</p>
+<p>Je ne suis pas une experte en création de fiction interactive mais j'aime beaucoup cela et j'espère pouvoir vous partager mon enthousiasme.</p>
+<p>Jusqu'à présent, j'ai créé:</p>
+<ul>
+<li><a href="https://krisdoc.github.io/krisdoc/Parmi les étoiles intro 1.1.html" target="_blank" rel="noopener noreferrer">Parmi les étoiles</a>: un jeu à choix dans le monde de Star Wars via l'outil Twine </li>
+<li><a href="https://krisdoc.itch.io/rainbow" target="_blank" rel="noopener noreferrer">Rainbow</a>: une expérience à base d'images via Twine également</li>
+<li><a href="https://moiki.fr/social-club/krisdoc/ugo" target="_blank" rel="noopener noreferrer">Ugo</a>: un petit bot de chat via Moiki</li>
+<li><a href="https://donjon.fi/jouer/soir-de-bal" target="_blank" rel="noopener noreferrer">Soir de bal à Terrencehall</a>: un jeu à analyseur syntaxique dans l'ambiance des romans de Jane Austen via donjon.fi</li>
+</ul>
+<p>Il est plus que temps d'attaquer le contenu qui fera mériter son titre à cet article: avec quoi peut-on créer ces fameuses fictions interactives?</p>
+<p>Je vais vous parler des outils qui, je pense, sont les plus adaptés pour commencer:</p>
+<ul>
+<li>Moiki</li>
+<li>Twine (Format Chapbook)</li>
+<li>donjon.fi</li>
+</ul>
+<h2>Moiki.fr</h2>
+<p><a href="https://moiki.fr/" target="_blank" rel="noopener noreferrer">Moiki.fr</a> se veut être un outil "de création d'histoires interactives facile à utiliser". Tout en français, avec une interface graphique intuitive, moiki sait vous apprivoiser et vous guider jusqu'à la fin de votre création. Mais ce n'est pas qu'un outil simple à prendre en main. Il en a sous le capot et permet de gérer des situations un peu complexes (avec des variables, de la musique...).</p>
+<figure class="post__image" ><img loading="lazy" src="https://krisdoc.github.io/krisdoc/media/posts/109/screenshot-editor2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://krisdoc.github.io/krisdoc/media/posts/109/responsive/screenshot-editor2-xs.png 300w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/screenshot-editor2-sm.png 480w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/screenshot-editor2-md.png 768w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/screenshot-editor2-lg.png 1024w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/screenshot-editor2-xl.png 1360w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/screenshot-editor2-2xl.png 1600w"  alt="interface éditeur de moiki" width="1000" height="499">
+<figcaption >Vue de l'interface en mode édition</figcaption>
+</figure>
+<p>Par <a href="https://moiki.fr/social-club" target="_blank" rel="noopener noreferrer">ici</a> pour accéder aux jeux de la communauté, <a href="https://moiki.fr/documentation" target="_blank" rel="noopener noreferrer">là</a> pour lire la documentation et <a href="https://moiki.fr/tutos" target="_blank" rel="noopener noreferrer">là</a> pour regarder des tutos.</p>
+<h2>donjon.fi</h2>
+<p><a href="https://donjon.fi/" target="_blank" rel="noopener noreferrer">Donjon.fi</a> est un moteur de fictions à analyseur syntaxique entièrement en français. Le principe de jeu est simple: il suffit de taper l'action qu'accomplit votre personnage dans le champ texte. Le contexte du jeu réagira à votre action et ainsi de suite vous pourrez explorer l'univers du jeu. Côté création, cela passera par la description du monde et les réactions à afficher en fonction des actions de la joueuse.</p>
+<figure class="post__image" ><img loading="lazy" src="https://krisdoc.github.io/krisdoc/media/posts/109/2021-08-23-18_16_09-Publii.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_16_09-Publii-xs.png 300w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_16_09-Publii-sm.png 480w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_16_09-Publii-md.png 768w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_16_09-Publii-lg.png 1024w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_16_09-Publii-xl.png 1360w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_16_09-Publii-2xl.png 1600w"  alt="interface éditeur donjon.fi" width="2731" height="1239">
+<figcaption >Aperçu de l'interface en mode création</figcaption>
+</figure>
+<p>Par <a href="https://donjon.fi/" target="_blank" rel="noopener noreferrer">ici</a> pour accéder à des jeux, par <a href="https://donjon.fi/wiki" target="_blank" rel="noopener noreferrer">là</a> vers la documentation et <a href="https://vimeo.com/channels/1676422/videos" target="_blank" rel="noopener noreferrer">là</a> pour des tutos. </p>
+<p>J'espère vous partager bientôt un petit tuto de prise en main de donjon.fi.</p>
+<h2>Twine</h2>
+<p>Lorsqu'on s'intéresse à la fiction interactive, on tombe généralement rapidement sur <a href="https://twinery.org/" target="_blank" rel="noopener noreferrer">Twine</a> qui se veut à la fois un outil accessible et puissant.  Cet outil est fourni avec 4 "langages de programmation" appelés formats. Ces formats sont uniquement en anglais de même que la documentation. Toutefois, vous pouvez écrire votre fiction en français pour vos joueuses. Le formatage est totalement transparent pour la joueuse.</p>
+<p>Le format par défaut est Harlowe mais je trouve Chapbook plus facile d'accès. Chapbook est un peu moins puissant (moins de fonctionnalités sur certains aspects, car plus récent). Mais sa syntaxe est plus simple. Malheureusement, comme pour les autres formats et malgré sa qualité de rédaction, la documentation est en anglais. </p>
+<figure class="post__image" ><img loading="lazy" src="https://krisdoc.github.io/krisdoc/media/posts/109/2021-08-23-18_36_53-Editing-Navette-en-approche.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_36_53-Editing-Navette-en-approche-xs.png 300w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_36_53-Editing-Navette-en-approche-sm.png 480w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_36_53-Editing-Navette-en-approche-md.png 768w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_36_53-Editing-Navette-en-approche-lg.png 1024w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_36_53-Editing-Navette-en-approche-xl.png 1360w ,https://krisdoc.github.io/krisdoc/media/posts/109/responsive/2021-08-23-18_36_53-Editing-Navette-en-approche-2xl.png 1600w"  alt="aperçu interface Twine" width="2543" height="1604">
+<figcaption >Aperçu de l'interface Twine (extrait de Parmi les étoiles)</figcaption>
+</figure>
+<p>Twine est un outil très utilisé (il n'y a qu'à voir le grande nombre de <a href="https://itch.io/games/tag-twine" target="_blank" rel="noopener noreferrer">créations sur itch.io</a> qui l'utilisent). Pour des tutos en français, je vous dirige vers<a href="http://www.fiction-interactive.fr/category/articles/?tag=twine" target="_blank" rel="noopener noreferrer"> fiction-interactive.fr</a>. J'espère pouvoir bientôt vous partager un tuto pour Chapbook spécifiquement.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Soir de bal à Terrencehall</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/soir-de-bal-a-terrencehall.html"/>
+        <id>https://krisdoc.github.io/krisdoc/soir-de-bal-a-terrencehall.html</id>
+            <category term="itch.io"/>
+            <category term="donjon.fi"/>
+            <category term="création"/>
+
+        <updated>2021-08-17T17:30:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/108/435px-Franz_Xaver_Simm_-_Preparing_for_the_ball.jpg" alt="peinture d&#x27;une jeune femme se préparant pour un bal" />
+                    Soir de bal à Terrencehall est une fiction intéractive qui vous plongera dans une ambiance à la Jane Austen. Frayez-vous un chemin à travers la bonne société afin de décrocher le Saint Graal: une demande en mariage par un bon parti. A vous de choisir&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/108/435px-Franz_Xaver_Simm_-_Preparing_for_the_ball.jpg" alt="peinture d&#x27;une jeune femme se préparant pour un bal" />
+                <p>Soir de bal à Terrencehall est une fiction intéractive qui vous plongera dans une ambiance à la Jane Austen.
+Frayez-vous un chemin à travers la bonne société afin de décrocher le Saint Graal: une demande en mariage par un bon parti.
+A vous de choisir lequel de ces messieurs vous allez poursuivre de vos assiduités.</p>
+<p>Le jeu est accompagné d’un fichier aide, au cas où. Pour toute question, je suis disponible dans les commentaires sur itch.io, via Twitter (@KrissDoC) ou même via <a href="https://github.com/krisdoc/terrencehall">Github</a>.</p>
+<p>Le jeu se télécharge ci-dessous:</p>
+<div class="post__iframe"><iframe loading="lazy" src="https://itch.io/embed/1162668?dark=true" width="552" height="167" frameborder="0"><a href="https://krisdoc.itch.io/soir-de-bal-terrencehall">Soir de bal à Terrencehall by KrisDoC</a></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Les recettes de Kris</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/les-recettes-de-kris.html"/>
+        <id>https://krisdoc.github.io/krisdoc/les-recettes-de-kris.html</id>
+            <category term="tablesmith"/>
+            <category term="règles maison"/>
+            <category term="donjon.fi"/>
+            <category term="Twine"/>
+            <category term="Star Wars FFG"/>
+
+        <updated>2021-07-04T10:07:01+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/106/g34642.png" alt="" />
+                    Je vous présente aujourd’hui “Les recettes de Kris”. Qu’est-ce que c’est me direz-vous? Ni plus ni moins qu’une base de données de mes règles maisons, arrangements de système et autres que j’ai été amenée à créer au fil de ma vie rôliste. Le but est&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/106/g34642.png" alt="" />
+                <p>Je vous présente aujourd’hui “Les recettes de Kris”. Qu’est-ce que c’est me direz-vous? Ni plus ni moins qu’une base de données de mes règles maisons, arrangements de système et autres que j’ai été amenée à créer au fil de ma vie rôliste. </p>
+<p>Le but est de rassembler, vous y trouverez donc des choses très différentes: du code pour certains outils informatiques (<a href="https://krisdoc.info/tags/twine/">Twine</a>, <a href="https://krisdoc.info/nouvelle-action-charmer.html">donjon.fi</a>, tablesmith (à venir)), des ajouts de règles (combat de masse, <a href="https://krisdoc.info/regles-de-bataille-navale.html">bataille navale</a> …) et des modifications de règles existantes (<a href="https://krisdoc.info/deblocage-des-pouvoirs-de-force.html">pouvoirs de la Force pour Star Wars FFG</a>), bref toutes ces petites modif qui se trouvent généralement éparpillées dans des sous-dossiers différents. </p>
+<p>Je vous l’avoue, c’est autant pour vous que pour moi cette base de connaissances.</p>
+<p>Si vous êtes intéressées, c’est par ici: <a href="https://krisdoc.info/">krisdoc.info</a>.</p>
+
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Projets qui ont un nom</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/projets-qui-ont-un-nom.html"/>
+        <id>https://krisdoc.github.io/krisdoc/projets-qui-ont-un-nom.html</id>
+            <category term="création"/>
+            <category term="Trône des étoiles"/>
+            <category term="Station Diamant"/>
+            <category term="Projet Phénix"/>
+            <category term="Projet Léopard"/>
+            <category term="Jackson City"/>
+            <category term="Axes in the Dark"/>
+            <category term="1 parsec à la fois"/>
+
+        <updated>2021-07-04T10:10:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/103/andrew-neel-cckf4TsHAuw-unsplash.jpg" alt="" />
+                    J’ai souvent plein de projets en cours ou d’idées de projets. En général, un projet devient sérieux lorsque je lui attribue un nom. Je vous propose de vous présenter mes projets actuels qui ont un nom. Ceux-ci ont rarement une date butoir. Station Diamant :&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/103/andrew-neel-cckf4TsHAuw-unsplash.jpg" alt="" />
+                <p>J’ai souvent plein de projets en cours ou d’idées de projets. En général, un projet devient sérieux lorsque je lui attribue un nom. Je vous propose de vous présenter mes projets actuels qui ont un nom. Ceux-ci ont rarement une date butoir.</p>
+<p><em>Station Diamant</em> : le projet actif du moment, il s’agit de la mise au point d’un scénario de négociations d’un traité de paix sur une station spatiale neutre.</p>
+<p><em>Projet Léopard</em>: gros projet de supplément pour jouer en Normandie dans Medium Aevum.</p>
+<p><em>Projet Phénix</em>: projet de campagne à Poudlard avec un gros twist sur l’univers.</p>
+<p><em>Axes in the Dark</em>: Jouer des vikings grâce au système Forged in the Dark. Finira peut-être par avoir son propre système plus léger.</p>
+<p><em>Jackson City</em>: Incarner des flics dans un monde où des supers apparaissent. En stand-by pour le moment.</p>
+<p><em>1 parsec à la fois</em>: Jeu de cartes d’exploration spatiale, contexte minimal.</p>
+<p><em>Trône des étoiles</em>: Campagne Star Wars où les PJ incarnent les représentants d’une planète au Sénat Galactique.</p>
+<p>Vous pouvez suivre leur avancement sur ce tableau :</p>
+<div class="post__iframe"><iframe loading="lazy" class="airtable-embed" src="https://airtable.com/embed/shrprbUzU5Lr2FmpE?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="800" height="500" style="background: transparent; border: 1px solid #ccc;"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Force de l&#x27;esprit: psionics for Space Aces</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/force-de-lesprit-psionics-for-space-aces.html"/>
+        <id>https://krisdoc.github.io/krisdoc/force-de-lesprit-psionics-for-space-aces.html</id>
+            <category term="itch.io"/>
+            <category term="Version anglaise disponible"/>
+            <category term="Star Wars"/>
+            <category term="Space Aces"/>
+
+        <updated>2021-07-04T10:36:20+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/102/bekir-donmez-eofm5R5f9Kw-unsplash2.jpg" alt="" />
+                    Space Aces est un jeu d’aventures spatiales au système léger. J’envisage de l’utiliser lors de one shots Star Wars mais une chose manquait: comment jouer des jedi. Je me suis donc penchée sur la question, et Force de l’esprit en est sorti: Il s’agit d’un&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/102/bekir-donmez-eofm5R5f9Kw-unsplash2.jpg" alt="" />
+                <p><a href="https://p0rthos47.itch.io/space-aces-tng">Space Aces</a> est un jeu d’aventures spatiales au système léger. J’envisage de l’utiliser lors de one shots Star Wars mais une chose manquait: comment jouer des jedi. Je me suis donc penchée sur la question, et Force de l’esprit en est sorti:</p>
+<div class="post__iframe"><iframe loading="lazy" src="https://itch.io/embed/1003551" width="552" height="167" frameborder="0"><a href="https://krisdoc.itch.io/force-de-lesprit-strength-of-the-mind">Force de l'esprit | Strength of the Mind by KrisDoC</a></iframe></div>
+
+<p>Il s’agit d’un supplément en une page où la Force et son usage sont réparties en trois domaines:</p>
+<ul>
+<li>Détection</li>
+<li>Contrôle</li>
+<li>Altération</li>
+</ul>
+<p>On utilise des points de Concentration pour activer ses capacités après avoir déterminé le coût nécessaire selon la taille de la cible et l’importance de l’action souhaitée.</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

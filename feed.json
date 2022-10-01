@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://krisdoc.github.io/krisdoc/nouvelle-version-du-site.html",
+            "url": "https://krisdoc.github.io/krisdoc/nouvelle-version-du-site.html",
+            "title": "Nouvelle version du site",
+            "summary": "Après plusieurs mois hors ligne, je relance le site Du Dé au Clavier, un peu sur un coup de tête. Ayant quitté mon hébergeur, il est désormais hébergé sur Github Pages et a changé d’adresse (https://krisdoc.github.io/krisdoc/). Mais plus important peut-être, le nom est désormais accolé&hellip;",
+            "content_html": "<p>Après plusieurs mois hors ligne, je relance le site Du Dé au Clavier, un peu sur un coup de tête.\nAyant quitté mon hébergeur, il est désormais hébergé sur Github Pages et a changé d’adresse (<a href=\"https://krisdoc.github.io/krisdoc/\">https://krisdoc.github.io/krisdoc/</a>). Mais plus important peut-être, le nom est désormais accolé à un sous-titre. Vous arpentez désormais <strong>Du Dé au Clavier: le bazar de Kris</strong>.\nJ’ai décidé de modifier le nom afin de refléter le fait que mes horizons créatifs sont plus larges que le seul jeu de rôle: je bidouille de la musique, je crée des fictions interactives (je viens d’ailleurs de me lancer dans des <a href=\"https://twitch.tv/krisdoc\">streams</a> sur ce thème).\nIl y aura toujours du jdr mais pas seulement.</p>\n<p>Vous aurez peut-être remarqué la disparition des articles relatifs au podcast Du Dé au Micro: tout simplement car je l’ai arrêté et que les épisodes audio ne sont plus disponibles (hébergement résilié). Mais! J’avais fait des versions vidéos pour un grand nombre d’épisodes (jusqu’au 23ème en fait), ils sont disponibles sur <a href=\"https://tube.portes-imaginaire.org/w/p/2tpJxvwheN7KNVcS8o7CBM\">ma chaîne Peertube</a>. Je vais donc peu à peu incruster les vidéos dans les articles concernés afin de les rendre à nouveau disponibles (ces articles sont cachés pour le moment).</p>\n<p>Le site a été hors ligne mais ce n’est pas pour autant qu’il ne s’est rien passé ces derniers mois en terme de créativité. Je vous partagerai au fur et à mesure les différents trucs créés durant ce laps de temps. Stay tuned!</p>\n",
+            "image": "https://krisdoc.github.io/krisdoc/media/posts/121/justin-dickey-PH-kgbHTjgU-unsplash.jpg",
+            "author": {
+                "name": "Kris"
+            },
+            "tags": [
+                   "streaming",
+                   "actu"
+            ],
+            "date_published": "2022-10-01T10:43:22+02:00",
+            "date_modified": "2022-10-01T10:43:37+02:00"
+        },
+        {
             "id": "https://krisdoc.github.io/krisdoc/decouverte-de-texture.html",
             "url": "https://krisdoc.github.io/krisdoc/decouverte-de-texture.html",
             "title": "Découverte de Texture",
@@ -177,29 +194,6 @@
             ],
             "date_published": "2021-07-04T10:07:01+02:00",
             "date_modified": "2021-07-04T10:07:01+02:00"
-        },
-        {
-            "id": "https://krisdoc.github.io/krisdoc/projets-qui-ont-un-nom.html",
-            "url": "https://krisdoc.github.io/krisdoc/projets-qui-ont-un-nom.html",
-            "title": "Projets qui ont un nom",
-            "summary": "J’ai souvent plein de projets en cours ou d’idées de projets. En général, un projet devient sérieux lorsque je lui attribue un nom. Je vous propose de vous présenter mes projets actuels qui ont un nom. Ceux-ci ont rarement une date butoir. Station Diamant :&hellip;",
-            "content_html": "<p>J’ai souvent plein de projets en cours ou d’idées de projets. En général, un projet devient sérieux lorsque je lui attribue un nom. Je vous propose de vous présenter mes projets actuels qui ont un nom. Ceux-ci ont rarement une date butoir.</p>\n<p><em>Station Diamant</em> : le projet actif du moment, il s’agit de la mise au point d’un scénario de négociations d’un traité de paix sur une station spatiale neutre.</p>\n<p><em>Projet Léopard</em>: gros projet de supplément pour jouer en Normandie dans Medium Aevum.</p>\n<p><em>Projet Phénix</em>: projet de campagne à Poudlard avec un gros twist sur l’univers.</p>\n<p><em>Axes in the Dark</em>: Jouer des vikings grâce au système Forged in the Dark. Finira peut-être par avoir son propre système plus léger.</p>\n<p><em>Jackson City</em>: Incarner des flics dans un monde où des supers apparaissent. En stand-by pour le moment.</p>\n<p><em>1 parsec à la fois</em>: Jeu de cartes d’exploration spatiale, contexte minimal.</p>\n<p><em>Trône des étoiles</em>: Campagne Star Wars où les PJ incarnent les représentants d’une planète au Sénat Galactique.</p>\n<p>Vous pouvez suivre leur avancement sur ce tableau :</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" class=\"airtable-embed\" src=\"https://airtable.com/embed/shrprbUzU5Lr2FmpE?backgroundColor=gray&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"800\" height=\"500\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe></div>",
-            "image": "https://krisdoc.github.io/krisdoc/media/posts/103/andrew-neel-cckf4TsHAuw-unsplash.jpg",
-            "author": {
-                "name": "Kris"
-            },
-            "tags": [
-                   "création",
-                   "Trône des étoiles",
-                   "Station Diamant",
-                   "Projet Phénix",
-                   "Projet Léopard",
-                   "Jackson City",
-                   "Axes in the Dark",
-                   "1 parsec à la fois"
-            ],
-            "date_published": "2021-07-04T09:57:18+02:00",
-            "date_modified": "2021-07-04T10:10:43+02:00"
         }
     ]
 }

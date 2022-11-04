@@ -3,12 +3,56 @@
     <title>Du Dé au Clavier: le bazar de Kris</title>
     <link href="https://krisdoc.github.io/krisdoc/feed.xml" rel="self" />
     <link href="https://krisdoc.github.io/krisdoc" />
-    <updated>2022-10-01T10:43:37+02:00</updated>
+    <updated>2022-11-04T09:24:22+01:00</updated>
     <author>
         <name>Kris</name>
     </author>
     <id>https://krisdoc.github.io/krisdoc</id>
 
+    <entry>
+        <title>Le fédivers pour les rôlistes</title>
+        <author>
+            <name>Kris</name>
+        </author>
+        <link href="https://krisdoc.github.io/krisdoc/le-fedivers-pour-les-rolistes.html"/>
+        <id>https://krisdoc.github.io/krisdoc/le-fedivers-pour-les-rolistes.html</id>
+            <category term="jdr"/>
+            <category term="fédivers"/>
+            <category term="communauté"/>
+
+        <updated>2022-11-04T09:24:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://krisdoc.github.io/krisdoc/media/posts/122/shubham-dhage-MNOPbe4XmxU-unsplash.jpg" alt="3d illustration of a sphere with lots of small purple-colored balls hovering over it." />
+                    Le fédivers c’est quoi? Et comment peut-on l’aborder en tant que rôliste? Le fédivers est un réseau de réseaux (un peu comme internet). Chaque réseau utilise un outil utilisé par plusieurs instances. Une instance est un lieu où se regroupent les utilisateurs d’un même outil&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://krisdoc.github.io/krisdoc/media/posts/122/shubham-dhage-MNOPbe4XmxU-unsplash.jpg" alt="3d illustration of a sphere with lots of small purple-colored balls hovering over it." />
+                <p>Le fédivers c’est quoi? Et comment peut-on l’aborder en tant que rôliste?</p>
+<p>Le fédivers est un réseau de réseaux (un peu comme internet). Chaque réseau utilise un outil utilisé par plusieurs instances. Une instance est un lieu où se regroupent les utilisateurs d’un même outil (un peu comme les serveurs discord: chaque serveur est indépendant mais tous utilisent discord.)</p>
+<p>Maintenant, imaginez que vous puissiez vous abonner directement à une chaîne Youtube et un compte Isntagram depuis votre seul compte twitter. C’est ça le fédivers. Un archipel d’outils interconnectés. Chaque outil a ses spécificités mais ils ont des points communs dont un principal: la fédération. C’est le fait de pouvoir interagir entre outils différents mais qui partagent un même protocole (appelé ActivityPub).</p>
+<p>L’outil le plus connu du fédivers est Mastodon, un outil de microblogging souvent comparé à Twitter, surtout en ce moment. Un guide complet de Mastodon est disponible <a href="https://mastodon.help/fr">là</a>.
+L’intérêt pour un.e rôliste est tout trouvé: retrouver des gens qui ont envie de discuter de jdr. Cela se fait en choisissant une instance sur ce thème: je connais <a href="https://ludosphere.fr/about/more">ludosphere.fr</a> (francophone, axée jeux) et <a href="https://dice.camp/about/more">dice.camp</a> (anglophone, axée jdr).</p>
+<p>Mais il existe d’autres outils moins connus pouvant être mis à profit, tous étant fédérés. L’intérêt est d’obtenir des infos et de pouvoir interagir directement depuis son fil d’actualités Mastodon.</p>
+<p>Les autres outils auxquels je pense sont (en gras, les plus intéressants pour des rôlistes selon moi):</p>
+<ul>
+<li><strong><a href="https://joinpeertube.org">Peertube</a></strong>: une alternative à Youtube (instance francophone: <a href="https://tube.portes-imaginaire.org/about/instance">Imagin’Tube</a> )</li>
+<li><strong><a href="https://writefreely.org">WriteFreely</a></strong>: blog minimaliste (instance: <a href="https://write.as">write.as</a> )</li>
+<li><strong>Inventaire</strong>: un moyen de gérer une collection (instance: <a href="inventaire.io">inventaire.io</a> )</li>
+<li><strong><a href="https://joinbookwyrm.com/fr/">Bookwyrm</a></strong>: une alternative à GoodReads pour rédiger des critiques de livres et être à jour de sa pile à lire (instances: <a href="https://bookrastinating.com">bookrastinating.com</a> et <a href="https://bookwyrm.social">bookwyrm.social</a> ).</li>
+<li><strong>Mobilizon</strong>: organiser des évènements (instance: <a href="https://mobilizon.fr/about/instance">Mobilizon.fr</a> )</li>
+<li><a href="https://pixelfed.org">Pixelfed</a>: une alternative à Instagram </li>
+<li><a href="https://castopod.org">Castopod</a>: gestion de podcast (instance: <a href="https://www.castopod.com">castopod.com</a> [payant, je ne connais pas d’instance gratuite])</li>
+<li><a href="https://funkwhale.audio/fr_FR/">Funkhwale</a>: alternative à spotify avec gestion de podcast (instance: <a href="https://tanukitunes.com/about">tanukitunes.com</a> )</li>
+</ul>
+<p>Vous trouverez d’autres instances via <a href="https://fedidb.org/network">fedidb</a> et le <a href="https://www.chatons.org">collectif CHATONS</a>. Lorsque vous recherchez une instance, renseignez-vous sur ses objectifs, son fonctionnement, ne prenez pas forcément la plus peuplée ou la première de la liste.</p>
+<p>Un point important: tous ces outils peuvent être autohébergés, c’est à dire que vous pouvez avoir votre propre instance si vous disposez d’un hébergement en ligne et que vous avez les connaissances pour gérer un serveur. Il existe quelques services qui proposent du clé en main contre paiement (comme <a href="https://masto.host">masto.host</a> pour Mastodon ou <a href="https://www.castopod.com">castopod.com</a> pour Castopod), dans ce cas vous n’avez pas à gérer l’aspect technique.</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nouvelle version du site</title>
         <author>
@@ -310,37 +354,6 @@ A vous de choisir lequel de ces messieurs vous allez poursuivre de vos assiduit�
 <p>Le jeu est accompagné d’un fichier aide, au cas où. Pour toute question, je suis disponible dans les commentaires sur itch.io, via Twitter (@KrissDoC) ou même via <a href="https://github.com/krisdoc/terrencehall">Github</a>.</p>
 <p>Le jeu se télécharge ci-dessous:</p>
 <div class="post__iframe"><iframe loading="lazy" src="https://itch.io/embed/1162668?dark=true" width="552" height="167" frameborder="0"><a href="https://krisdoc.itch.io/soir-de-bal-terrencehall">Soir de bal à Terrencehall by KrisDoC</a></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Les recettes de Kris</title>
-        <author>
-            <name>Kris</name>
-        </author>
-        <link href="https://krisdoc.github.io/krisdoc/les-recettes-de-kris.html"/>
-        <id>https://krisdoc.github.io/krisdoc/les-recettes-de-kris.html</id>
-            <category term="tablesmith"/>
-            <category term="règles maison"/>
-            <category term="donjon.fi"/>
-            <category term="Twine"/>
-            <category term="Star Wars FFG"/>
-
-        <updated>2021-07-04T10:07:01+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://krisdoc.github.io/krisdoc/media/posts/106/g34642.png" alt="" />
-                    Je vous présente aujourd’hui “Les recettes de Kris”. Qu’est-ce que c’est me direz-vous? Ni plus ni moins qu’une base de données de mes règles maisons, arrangements de système et autres que j’ai été amenée à créer au fil de ma vie rôliste. Le but est&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://krisdoc.github.io/krisdoc/media/posts/106/g34642.png" alt="" />
-                <p>Je vous présente aujourd’hui “Les recettes de Kris”. Qu’est-ce que c’est me direz-vous? Ni plus ni moins qu’une base de données de mes règles maisons, arrangements de système et autres que j’ai été amenée à créer au fil de ma vie rôliste. </p>
-<p>Le but est de rassembler, vous y trouverez donc des choses très différentes: du code pour certains outils informatiques (<a href="https://krisdoc.info/tags/twine/">Twine</a>, <a href="https://krisdoc.info/nouvelle-action-charmer.html">donjon.fi</a>, tablesmith (à venir)), des ajouts de règles (combat de masse, <a href="https://krisdoc.info/regles-de-bataille-navale.html">bataille navale</a> …) et des modifications de règles existantes (<a href="https://krisdoc.info/deblocage-des-pouvoirs-de-force.html">pouvoirs de la Force pour Star Wars FFG</a>), bref toutes ces petites modif qui se trouvent généralement éparpillées dans des sous-dossiers différents. </p>
-<p>Je vous l’avoue, c’est autant pour vous que pour moi cette base de connaissances.</p>
-<p>Si vous êtes intéressées, c’est par ici: <a href="https://krisdoc.info/">krisdoc.info</a>.</p>
-
             ]]>
         </content>
     </entry>

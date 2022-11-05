@@ -3,7 +3,7 @@
     <title>Du Dé au Clavier: le bazar de Kris</title>
     <link href="https://krisdoc.github.io/krisdoc/feed.xml" rel="self" />
     <link href="https://krisdoc.github.io/krisdoc" />
-    <updated>2022-11-04T09:55:17+01:00</updated>
+    <updated>2022-11-05T09:53:45+01:00</updated>
     <author>
         <name>Kris</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="fédivers"/>
             <category term="communauté"/>
 
-        <updated>2022-11-04T09:55:17+01:00</updated>
+        <updated>2022-11-05T09:53:45+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://krisdoc.github.io/krisdoc/media/posts/122/shubham-dhage-MNOPbe4XmxU-unsplash.jpg" alt="3d illustration of a sphere with lots of small purple-colored balls hovering over it." />
@@ -41,7 +41,7 @@ L’intérêt pour un.e rôliste est tout trouvé: retrouver des gens qui ont en
 <li><strong><a href="https://joinpeertube.org">Peertube</a></strong>: une alternative à Youtube (instance francophone: <a href="https://tube.portes-imaginaire.org/about/instance">Imagin’Tube</a> )</li>
 <li><strong><a href="https://writefreely.org">WriteFreely</a></strong>: blog minimaliste (instance: <a href="https://write.as">write.as</a> )</li>
 <li><strong>Inventaire</strong>: un moyen de gérer une collection (instance: <a href="inventaire.io">inventaire.io</a> )</li>
-<li><strong><a href="https://joinbookwyrm.com/fr/">Bookwyrm</a></strong>: une alternative à GoodReads pour rédiger des critiques de livres et être à jour de sa pile à lire (instances: <a href="https://bookrastinating.com">bookrastinating.com</a> et <a href="https://bookwyrm.social">bookwyrm.social</a> ).</li>
+<li><strong><a href="https://joinbookwyrm.com/fr/">Bookwyrm</a></strong>: une alternative à GoodReads pour rédiger des critiques de livres et être à jour de sa pile à lire (instances: <a href="https://bookrastinating.com">bookrastinating.com</a> et <a href="https://bw.diaspodon.fr">bw.diaspodon.frl</a> ).</li>
 <li><strong>Mobilizon</strong>: organiser des évènements (instances: <a href="https://event.portes-imaginaire.org">Event</a> et <a href="https://mobilizon.fr/about/instance">Mobilizon.fr</a> )</li>
 <li><a href="https://pixelfed.org">Pixelfed</a>: une alternative à Instagram </li>
 <li><a href="https://castopod.org">Castopod</a>: gestion de podcast (instance: <a href="https://www.castopod.com">castopod.com</a> [payant, je ne connais pas d’instance gratuite])</li>

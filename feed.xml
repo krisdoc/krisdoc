@@ -3,7 +3,7 @@
     <title>Du Dé au Clavier: le bazar de Kris</title>
     <link href="https://krisdoc.github.io/krisdoc/feed.xml" rel="self" />
     <link href="https://krisdoc.github.io/krisdoc" />
-    <updated>2022-11-05T09:53:45+01:00</updated>
+    <updated>2022-11-05T19:09:41+01:00</updated>
     <author>
         <name>Kris</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="fédivers"/>
             <category term="communauté"/>
 
-        <updated>2022-11-05T09:53:45+01:00</updated>
+        <updated>2022-11-05T19:09:41+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://krisdoc.github.io/krisdoc/media/posts/122/shubham-dhage-MNOPbe4XmxU-unsplash.jpg" alt="3d illustration of a sphere with lots of small purple-colored balls hovering over it." />
@@ -34,7 +34,7 @@
 <p>Le fédivers est un réseau de réseaux (un peu comme internet). Chaque réseau utilise un outil utilisé par plusieurs instances. Une instance est un lieu où se regroupent les utilisateurs d’un même outil (un peu comme les serveurs discord: chaque serveur est indépendant mais tous utilisent discord.)</p>
 <p>Maintenant, imaginez que vous puissiez vous abonner directement à une chaîne Youtube et un compte Isntagram depuis votre seul compte twitter. C’est ça le fédivers. Un archipel d’outils interconnectés. Chaque outil a ses spécificités mais ils ont des points communs dont un principal: la fédération. C’est le fait de pouvoir interagir entre outils différents mais qui partagent un même protocole (appelé ActivityPub).</p>
 <p>L’outil le plus connu du fédivers est Mastodon, un outil de microblogging souvent comparé à Twitter, surtout en ce moment. Un guide complet de Mastodon est disponible <a href="https://mastodon.help/fr">là</a>.
-L’intérêt pour un.e rôliste est tout trouvé: retrouver des gens qui ont envie de discuter de jdr. Cela se fait en choisissant une instance sur ce thème: je connais <a href="https://ludosphere.fr/about/more">ludosphere.fr</a> (francophone, axée jeux) et <a href="https://dice.camp/about/more">dice.camp</a> (anglophone, axée jdr).</p>
+L’intérêt pour un.e rôliste est tout trouvé: retrouver des gens qui ont envie de discuter de jdr. Cela se fait en choisissant une instance sur ce thème: je connais <a href="https://ludosphere.fr/about/more">ludosphere.fr</a> (francophone, axée jeux), <a href="https://toot.portes-imaginaire.org/">toot.portes-imaginaire.org</a> (francophone, axées jdr) et <a href="https://dice.camp/about/more">dice.camp</a> (anglophone, axée jdr).</p>
 <p>Mais il existe d’autres outils moins connus pouvant être mis à profit, tous étant fédérés. L’intérêt est d’obtenir des infos et de pouvoir interagir directement depuis son fil d’actualités Mastodon.</p>
 <p>Les autres outils auxquels je pense sont (en gras, les plus intéressants pour des rôlistes selon moi):</p>
 <ul>
